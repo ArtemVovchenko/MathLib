@@ -1,0 +1,18 @@
+//
+//  linalg_matrix_standart.h
+//  LinearAlgebra
+//
+//  Created by Artem Vovchenko on 22.12.2020.
+//
+
+#ifndef linalg_matrix_standart_h
+#define linalg_matrix_standart_h
+
+#include <sstream>
+#include <stdexcept>
+#include "omp.h"
+
+#include "linalg_types.h"
+#include "linalg_attributes.h"
+
+#endif /* linalg_matrix_standart_h */
